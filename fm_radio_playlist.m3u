@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/150" group-title="Islamic", Quran - Abdurrahmaan As-Sudais
+https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Radio_logo.png" group-title="Bangladeshi", Radio Padma
+http://cassini.shoutca.st:9109/radiopadma.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FM_logo.png" group-title="Indian", Sayaji FM
+https://sayajifm.radioca.st/stream/;?1707488287650
+
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/150" group-title="Islamic", Arabi
+http://www.islamicpath.net:9898/stream.mp3
+
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/150" group-title="Bangladeshi", Bhumi
+https://listen.openstream.co/5013/audio
+
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/150" group-title="Islamic", Radio Baksho
+https://str3.openstream.co/1703?aw_0_1st.collectionid%3D5013%26stationId%3D5013%26publisherId%3D1727%26k%3D1729624595
+
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/150" group-title="Islamic", Voice of Islam
+http://voiceofislam.appsunder.com:8000/voiceofislam.mp3

@@ -1,0 +1,242 @@
+
+#EXTM3U
+
+# Sports
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", PTV Sports
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", BeIN Sports 1 🇫🇷
+http://213.176.3.72:1234/stream/FRANCE/966/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", BeIN Sports 2 🇫🇷
+http://213.176.3.72:1234/stream/FRANCE/970/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", BeIN Sports 3 🇫🇷
+http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", BeIN Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Bien Sport 1 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports1.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Bien Sport 2 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports2.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", T Sports
+https://cdn.livestreambd.com/TSports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Sony Ten 1 HD
+http://119.156.26.155:8000/play/a06b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Sony Ten 2 HD
+http://119.156.26.155:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Sony Ten 3 HD
+http://119.156.26.155:8000/play/a06l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Sony Ten 4
+http://119.156.26.155:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Sony Ten 5 HD
+http://119.156.26.155:8000/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Sports18 1 HD
+http://119.156.26.155:8000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Star Sports 1 HD
+http://119.156.26.155:8000/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Star Sports 2 HD
+http://119.156.26.155:8000/play/a06a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Star Sports 3
+http://119.156.26.155:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Star Sports Select 1 HD
+http://119.156.26.155:8000/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Star Sports Select 2 HD
+http://119.156.26.155:8000/play/a07g/index.m3u8
+
+# Movies
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", &PRIVE HD
+http://119.156.26.155:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", &flix HD
+http://119.156.26.155:8000/play/a06x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", &pictures HD
+http://119.156.26.155:8000/play/a07e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", HBO
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", MAX HD
+http://119.156.26.155:8000/play/a06e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", MNX HD
+http://119.156.26.155:8000/play/a06o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", MOVIE NOW
+http://119.156.26.155:8000/play/a066/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", PIX HD
+http://119.156.26.155:8000/play/a07d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", STAR MOVIE HD
+http://119.156.26.155:8000/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", Star Movie Select HD
+http://119.156.26.155:8000/play/a06q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", Star GOLD HD
+http://119.156.26.155:8000/play/a079/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", Star Gold 2
+http://119.156.26.155:8000/play/a07p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", Star Gold Select HD
+http://119.156.26.155:8000/play/a07b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", UTV ACTION
+http://119.156.26.155:8000/play/a07o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", UTV MOVIES
+http://119.156.26.155:8000/play/a07n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", ZEE BOLLYWOOD
+http://119.156.26.155:8000/play/a07q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Movies", ZEE CINEMA HD
+http://119.156.26.155:8000/play/a076/index.m3u8
+
+# Kids
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Kids", Cartoon Network
+http://119.156.26.155:8000/play/a05s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Kids", Disney Channel
+http://119.156.26.155:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Kids", Disney Jr
+http://119.156.26.155:8000/play/a05x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Kids", Discovery Kids
+http://119.156.26.155:8000/play/a062/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Kids", Hungama TV
+http://119.156.26.155:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Kids", Nick
+http://119.156.26.155:8000/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Kids", Nick Jr
+http://119.156.26.155:8000/play/a061/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Kids", Nick HD+
+http://119.156.26.155:8000/play/a07i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Kids", Pogo
+http://119.156.26.155:8000/play/a05z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Kids", Sonic
+http://119.156.26.155:8000/play/a05y/index.m3u8
+
+# News
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="News", BBC World
+http://119.156.26.155:8000/play/a064/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="News", CNN INTL
+http://119.156.26.155:8000/play/a063/index.m3u8
+
+# Entertainment
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", &tv HD
+http://119.156.26.155:8000/play/a074/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Sony aath
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Comedy Central
+http://119.156.26.155:8000/play/a065/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Colors HD
+http://119.156.26.155:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Investigation Discovery
+http://119.156.26.155:8000/play/a06k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", MTV
+http://119.156.26.155:8000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Sony HD
+http://119.156.26.155:8000/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Sony MAX 2
+http://119.156.26.155:8000/play/a07r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Sony PAL
+http://119.156.26.155:8000/play/a072/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Star Bharat HD
+http://119.156.26.155:8000/play/a077/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Star Plus HD
+http://119.156.26.155:8000/play/a06u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Star Utsav
+http://119.156.26.155:8000/play/a071/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Super Hungama
+http://119.156.26.155:8000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", TLC HD
+http://119.156.26.155:8000/play/a06m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", ZEE ANMOL
+http://119.156.26.155:8000/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", ZEE Cafe HD
+http://119.156.26.155:8000/play/a06n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", ZEE TV HD
+http://119.156.26.155:8000/play/a06v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Zoom
+http://119.156.26.155:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", bindass
+http://119.156.26.155:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Colors INFINITY HD
+http://119.156.26.155:8000/play/a07h/index.m3u8
+
+# Nature and Science
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Nature", Animal Planet HD
+http://119.156.26.155:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Nature", Discovery HD
+http://119.156.26.155:8000/play/a06s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Nature", Discovery Science
+http://119.156.26.155:8000/play/a07k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Nature", Discovery Turbo
+http://119.156.26.155:8000/play/a07l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Nature", EuroSport
+http://119.156.26.155:8000/play/a06j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Nature", Fox Life HD
+http://119.156.26.155:8000/play/a07s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Nature", History TV18 HD
+http://119.156.26.155:8000/play/a07a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Nature", Nat Geo Wild HD
+http://119.156.26.155:8000/play/a06f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Nature", National Geographic HD
+http://119.156.26.155:8000/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Nature", Sony BBC Earth HD
+http://119.156.26.155:8000/play/a07c/index.m3u8
