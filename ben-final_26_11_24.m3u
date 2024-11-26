@@ -135,3 +135,11 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b9b1fb7d-7434-44e1-b416-1dcd7025c76f_180x180_cnn.jpeg" group-title="English", CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+### Extra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="Extra", Rtv
+https://ythls-v3.onrender.com/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Extra", Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
