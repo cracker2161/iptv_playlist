@@ -1,7 +1,9 @@
 #EXTM3U — SULTAN ARABI <! ------------ BD Playlist --ben-final - version 1.8---------------->
 
-### Bangladesh
+#EXTINF:-1 tvg-logo="https://example.com/logo.png" group-title="Developer Info", Jøhîr
+https://projects-media.vercel.app/projects/info.html
 
+### Bangladesh
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="Bangladeshi",Rtv
 https://ythls-v3.onrender.com/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp704rZk/Background-Eraser-20240628-105643059.png" group-title="Bangladeshi",Maasranga
