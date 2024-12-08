@@ -1,134 +1,6 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", Millennium TV USA
-https://example.com/millenniumtv-odr-up2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", Millennium TV 24
-https://example.com/mnews24.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", Makkah TV
-https://example.com/makkahtv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", JonmoBhumi TV
-https://example.com/jonmobhumitv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", Jamuna TV
-https://example.com/jamuna-test-sample-ok.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", Jagoroni TV
-https://example.com/jagoronitv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", JagoNews24 TV
-https://example.com/jagonews24.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", Islam TV
-https://example.com/islamtv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", Iqra Bangla
-https://example.com/iqrabanglatvoffice.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", iON TV UK
-https://example.com/iontvuk.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", Independent TV
-https://example.com/independent-8-org.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", Green TV
-https://example.com/greentv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", Ekhon TV
-https://example.com/globaltv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png" group-title="JAGO BD", DW News
-https://example.com/dwnews.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="AKASH GO X TELEVIZO", 2
-https://example.com/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
-http://example.com/join_our_telegram.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ny0F96y/20240827-010202.png" group-title="EXCLUSIVE", T SPORTS LIVE 1
-https://example.com/jason.php?id=live-01
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KXSPddd/20240827-010107.png" group-title="EXCLUSIVE", T SPORTS LIVE 2
-https://example.com/jason.php?id=live-02
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/b5VkjPc/20240907-023057.png" group-title="EXCLUSIVE", BONGO MOVIES
-https://example.com/bongo-op.m3u8?id=bongo-movies
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4VtHQpf/20240907-023221.png" group-title="EXCLUSIVE", BONGO DRAMAS
-https://example.com/bongo-op.m3u8?id=bongo-dramas
-
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F603%2Flogo%2F240x240%2Fmobile_logo_237244001666780563.png&w=256&q=75" group-title="EXCLUSIVE", SONY TEN 1 HD
-https://example.com/sony_ten1_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F604%2Flogo%2F240x240%2Fmobile_logo_093449001666780976.png&w=256&q=75" group-title="EXCLUSIVE", SONY TEN 2 HD
-https://example.com/sony_ten2_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2418%2Flogo%2F240x240%2Fmobile_logo_992280001666781086.png&w=256&q=75" group-title="EXCLUSIVE", SONY TEN 3 HD
-https://example.com/sony_ten3_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F606%2Flogo%2F240x240%2Fmobile_logo_689539001672145843.png&w=256&q=75" group-title="EXCLUSIVE", SONY TEN 5 HD
-https://example.com/sony_six_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F343%2Flogo%2F240x240%2Fmobile_logo_496322001666780228.png&w=256&q=75" group-title="EXCLUSIVE", SONY AATH
-https://example.com/sony_aath/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F641%2Flogo%2F240x240%2Fmobile_logo_440775001666782769.png&w=256&q=75" group-title="EXCLUSIVE", SONY SAB HD
-https://example.com/sony_sab_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2422%2Flogo%2F240x240%2Fmobile_logo_037670001666785867.png&w=256&q=75" group-title="EXCLUSIVE", SONY WAH
-https://example.com/sony_wah/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F353%2Flogo%2F240x240%2Fmobile_logo_044841001666779831.png&w=256&q=75" group-title="EXCLUSIVE", SONY MAX 2
-https://example.com/sony_max_2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F612%2Flogo%2F240x240%2Fmobile_logo_091186001666784752.png&w=256&q=75" group-title="EXCLUSIVE", SONY YAY
-https://example.com/sony_yay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2419%2Flogo%2F240x240%2Fmobile_logo_287412001666784602.png&w=256&q=75" group-title="EXCLUSIVE", SONY PIX HD
-https://example.com/sony_pix_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F670%2Flogo%2F240x240%2Fmobile_logo_363688001655891620.png&w=256&q=75" group-title="EXCLUSIVE", SONY BBC EARTH HD
-https://example.com/sony_bbc_earth_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="EXCLUSIVE", https://example.com/
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GF2Gt27/image-1.webp" group-title="EXCLUSIVE", ZEE TV HD
-https://example.com/zee_tv_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q9kdNV7/image.webp" group-title="EXCLUSIVE", ZEE CINEMA HD
-https://example.com/zee_cinema_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="EXCLUSIVE", ZEE BANGLA
-https://example.com/zee_bangla/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="EXCLUSIVE", ZEE BANGLA CINEMA
-https://example.com/zee_bangla_cinema/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="EXCLUSIVE", SONY ENTERTAINMENT TELEVISION
-https://example.com/sony_entertainment/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="EXCLUSIVE", SONY MAX
-https://example.com/sony_max/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="EXCLUSIVE", B4U MOVIE
-https://example.com/b4u_movies/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="EXCLUSIVE", B4U MUSIC
-https://example.com/b4umusic/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png" group-title="EXCLUSIVE", TOFFEE DRAMAS
-https://example.com/toffee_drama/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png" group-title="EXCLUSIVE", TOFFEE MOVIES
-https://example.com/toffee_movie/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png" group-title="EXCLUSIVE", TOFFEE SPORTS
-https://example.com/sports_highlights/playlist.m3u8
-
+###BANGLADESH
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGLADESH", BTV HD
 https://example.com/Btv-g.stream/playlist.m3u8
 
@@ -254,6 +126,7 @@ https://example.com/voicetv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YkxVysF/20240907-135235.png" group-title="BANGLADESH", THE CHANNEL TV
 https://example.com/thechanneltv.stream/playlist.m3u8
 
+###KOLKATA
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA", STAR JALSHA
 http://example.com/STAR-JALSHA/live.mpd
 
@@ -325,6 +198,7 @@ https://example.com/281/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9p6gBtp/20240813-191607.png" group-title="KOLKATA", BANGLA PLUS
 https://example.com/livebanglatvstream.m3u8
 
+###NEWS
 #EXTINF:-1 tvg-logo="" group-title="NEWS", ABP ANANDA
 https://example.com/master_720p.m3u8
 
@@ -364,6 +238,7 @@ https://example.com/cnn/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS", ABC NEWS
 https://example.com/ABCNews.m3u8
 
+###PAKISTAN
 #EXTINF:-1 tvg-logo="" group-title="PAKISTAN", HAR PAL GEO
 https://example.com/harPalGeo/playlist.m3u8
 
@@ -388,17 +263,7 @@ https://example.com/dunyalivehd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PAKISTAN", DISCOVERY PAKISTAN
 https://example.com/discoverpakistan/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BHOJPURI", B4U BHOJPURI
-http://example.com/play/a00c
-
-#EXTINF:-1 tvg-logo="" group-title="BHOJPURI", FILAMCHI BHOJPURI
-https://example.com/filamchi/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BHOJPURI", BHOJPURI CINEMA
-https://example.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BHOJPURI", SANGEET BHOJPURI
-
+###KIDS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="KIDS", DURONTO TV
 https://example.com/duronto_tv/playlist.m3u8
 
@@ -459,6 +324,7 @@ https://example.com/videos/113.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", SPACETOON
 https://example.com/spacetoon/chunklist.m3u8
 
+###MUSIC
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L6V3Gsh/20240802-204557.png" group-title="MUSIC", GAAN BANGLA
 https://example.com/gaanbangla/playlist.m3u8
 
@@ -515,18 +381,7 @@ https://example.com/141/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png" group-title="MUSIC", ZOOM
 https://example.com/Zoom.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GOLDMINES", GOLDMINES
-http://example.com/play/a00z
-
-#EXTINF:-1 tvg-logo="" group-title="GOLDMINES", GOLDMINES BOLLYWOOD
-http://example.com/play/a012
-
-#EXTINF:-1 tvg-logo="" group-title="GOLDMINES", GOLDMINES MOVIES
-http://example.com/play/a01j
-
-#EXTINF:-1 tvg-logo="" group-title="GOLDMINES", GOLDMINES THRILLS
-http://example.com/play/a01h
-
+###DOCUMENTORY
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hB4Sv2y/20240803-101733.png" group-title="DOCUMENTORY", DISCOVERY HD
 https://example.com/discovary.m3u8
 
@@ -576,6 +431,7 @@ https://example.com/Dmax.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k9RxJ99/20240803-110853.png" group-title="DOCUMENTORY", TRAVELXP HD
 https://example.com/playlist.m3u8
 
+###INDIA
 #EXTINF:-1 tvg-logo="" group-title="INDIA", STAR PLUS HD
 http://example.com/live.ts?channelId=200&uid=13433&deviceMac=00:1A:79:00:97:A1
 
@@ -688,6 +544,7 @@ https://example.com/toffee_movie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png" group-title="INDIA", TOFFEE SPORTS
 https://example.com/sports_highlights/playlist.m3u8
 
+###MOVIE
 #EXTINF:-1 tvg-logo="" group-title="MOVIE", ZEE CINEMA HD
 https://example.com/zeecinemahd1.m3u8
 
@@ -721,6 +578,7 @@ https://example.com/zeeaction1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIE", THE MOVIE CLUB
 https://example.com/playlist.m3u8
 
+###SPORTS
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", T SPORTS HD 1
 https://example.com/Gazi_TV/index.m3u8
 
@@ -802,6 +660,7 @@ https://example.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", MU TV
 https://example.com/playlist.m3u8
 
+###RELIGIOUS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="RELIGIOUS", PEACE TV BANGLA
 https://example.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
