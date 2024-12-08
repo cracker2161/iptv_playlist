@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 
@@ -618,6 +617,76 @@ https://example.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDIA", DANGAL 2
 https://example.com/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F603%2Flogo%2F240x240%2Fmobile_logo_237244001666780563.png&w=256&q=75" group-title="INDIA", SONY TEN 1 HD
+https://example.com/sony_ten1_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F604%2Flogo%2F240x240%2Fmobile_logo_093449001666780976.png&w=256&q=75" group-title="INDIA", SONY TEN 2 HD
+https://example.com/sony_ten2_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2418%2Flogo%2F240x240%2Fmobile_logo_992280001666781086.png&w=256&q=75" group-title="INDIA", SONY TEN 3 HD
+https://example.com/sony_ten3_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F606%2Flogo%2F240x240%2Fmobile_logo_689539001672145843.png&w=256&q=75" group-title="INDIA", SONY TEN 5 HD
+https://example.com/sony_six_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F343%2Flogo%2F240x240%2Fmobile_logo_496322001666780228.png&w=256&q=75" group-title="INDIA", SONY AATH
+https://example.com/sony_aath/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F641%2Flogo%2F240x240%2Fmobile_logo_440775001666782769.png&w=256&q=75" group-title="INDIA", SONY SAB HD
+https://example.com/sony_sab_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2422%2Flogo%2F240x240%2Fmobile_logo_037670001666785867.png&w=256&q=75" group-title="INDIA", SONY WAH
+https://example.com/sony_wah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F353%2Flogo%2F240x240%2Fmobile_logo_044841001666779831.png&w=256&q=75" group-title="INDIA", SONY MAX 2
+https://example.com/sony_max_2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F612%2Flogo%2F240x240%2Fmobile_logo_091186001666784752.png&w=256&q=75" group-title="INDIA", SONY YAY
+https://example.com/sony_yay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2419%2Flogo%2F240x240%2Fmobile_logo_287412001666784602.png&w=256&q=75" group-title="INDIA", SONY PIX HD
+https://example.com/sony_pix_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F670%2Flogo%2F240x240%2Fmobile_logo_363688001655891620.png&w=256&q=75" group-title="INDIA", SONY BBC EARTH HD
+https://example.com/sony_bbc_earth_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDIA", 
+https://example.com/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GF2Gt27/image-1.webp" group-title="INDIA", ZEE TV HD
+https://example.com/zee_tv_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q9kdNV7/image.webp" group-title="INDIA", ZEE CINEMA HD
+https://example.com/zee_cinema_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="INDIA", ZEE BANGLA
+https://example.com/zee_bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="INDIA", ZEE BANGLA CINEMA
+https://example.com/zee_bangla_cinema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="INDIA", SONY ENTERTAINMENT TELEVISION
+https://example.com/sony_entertainment/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="INDIA", SONY MAX
+https://example.com/sony_max/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="INDIA", B4U MOVIE
+https://example.com/b4u_movies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="INDIA", B4U MUSIC
+https://example.com/b4umusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png" group-title="INDIA", TOFFEE DRAMAS
+https://example.com/toffee_drama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png" group-title="INDIA", TOFFEE MOVIES
+https://example.com/toffee_movie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png" group-title="INDIA", TOFFEE SPORTS
+https://example.com/sports_highlights/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIE", ZEE CINEMA HD
 https://example.com/zeecinemahd1.m3u8
