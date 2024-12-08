@@ -1,5 +1,16 @@
 #EXTM3U
 
+### Developer Info
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RNtdCVq/1000018368.jpg" group-title="Developer Info: sultanarabi.netlify.app", Designed by Sultan
+https://projects-media.vercel.app/projects/info.html
+<!------------------------------------------------
+    Name:     BDIX EXAMPLE PLAYLIST
+    Version: 1.2.0
+    Developer: Sultan Arabi
+    Link: sultanarabi.netlify.app
+    Mail: sultanarabi161@gmail.com
+ ----------------------------------------------- >
+
 ###BANGLADESH
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGLADESH", BTV HD
 https://example.com/Btv-g.stream/playlist.m3u8
